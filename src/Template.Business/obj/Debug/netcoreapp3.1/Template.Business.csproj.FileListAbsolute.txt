@@ -1,0 +1,14 @@
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Business.deps.json
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Business.dll
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Business.pdb
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Data.dll
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Models.dll
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Data.pdb
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\bin\Debug\netcoreapp3.1\Template.Models.pdb
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.csprojAssemblyReference.cache
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.AssemblyInfoInputs.cache
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.AssemblyInfo.cs
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.csproj.CoreCompileInputs.cache
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.csproj.CopyComplete
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.dll
+D:\Source\Repos\AspnetApplications\Template\src\Template.Business\obj\Debug\netcoreapp3.1\Template.Business.pdb
